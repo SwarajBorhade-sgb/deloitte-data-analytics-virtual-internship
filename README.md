@@ -17,9 +17,10 @@ This dashboard visualizes machine downtime across different factories and device
 - **Daikibo-Shenzhen** shows an extremely high downtime value — potentially due to a reporting error or critical operational issue.
 - **LaserCutter** devices had the highest downtime across all types, suggesting maintenance or production process review is needed.
 
-![Downtime Dashboard](![Daikibo_Dashboard](https://github.com/user-attachments/assets/e81bac3f-e39d-47a4-8f85-52ae204fbdf9)
-)
+### 🖼️ Dashboard Preview
 
+![Machine Downtime Dashboard](![Daikibo_Dashboard](https://github.com/user-attachments/assets/698106c7-af08-40db-a88e-f5ebc31fb89e)
+)
 ---
 
 ## 🛠️ Tools & Skills Applied
