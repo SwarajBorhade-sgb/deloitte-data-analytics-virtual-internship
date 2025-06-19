@@ -19,8 +19,8 @@ This dashboard visualizes machine downtime across different factories and device
 
 ### 🖼️ Dashboard Preview
 
-![Machine Downtime Dashboard](![Daikibo_Dashboard](https://github.com/user-attachments/assets/698106c7-af08-40db-a88e-f5ebc31fb89e)
-)
+![Machine Downtime Dashboard]![Daikibo_Dashboard](https://github.com/user-attachments/assets/08bad014-2abb-4a87-9649-c0175287e24c)
+
 ---
 
 ## 🛠️ Tools & Skills Applied
